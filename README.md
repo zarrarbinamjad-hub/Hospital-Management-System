@@ -78,7 +78,7 @@ Displaying records
 Searching for patients
 Calculating hospital earnings
 Finding the highest bill
-Project Structure
+### Project Structure
 Hospital-Management-System
 │
 ├── Program.cs
@@ -129,7 +129,7 @@ Adding data validation
 Adding a user-friendly interface
 Adding database CRUD operations
 Adding more hospital management features
-Author
+## Author
 
 Amjad Hussain
 
