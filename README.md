@@ -1,14 +1,14 @@
- Hospital Management System
+# Hospital Management System
 
 A console-based Hospital Management System developed in C# as a practical project to strengthen my understanding of Object-Oriented Programming (OOP) and basic application logic.
 
-About the Project
+## About the Project
 
 This project is a simple Hospital Management System that manages information about doctors and patients and performs basic hospital-related operations.
 
 The main purpose of this project was to practice C# programming concepts and understand how multiple classes can work together to build a small management system.
 
-Technologies Used
+## Technologies Used
 C#
 .NET
 Visual Studio
@@ -26,7 +26,7 @@ Manage doctor and patient records
 Perform operations through methods
 OOP Concepts Used
 
-This project demonstrates the following C# and OOP concepts:
+## This project demonstrates the following C# and OOP concepts:
 
 Classes
 Objects
@@ -47,11 +47,11 @@ For example, the Hospital class maintains doctor and patient records and perform
 
 This demonstrates how different classes can interact with each other without requiring inheritance.
 
-Main Classes
+## Main Classes
 
 The main classes used in the project include:
 
-Doctor
+### Doctor
 
 Represents a doctor and stores information such as:
 
@@ -70,7 +70,7 @@ Bill
 Other patient information used by the application
 Hospital
 
-Manages the doctors and patients and provides methods for operations such as:
+## Manages the doctors and patients and provides methods for operations such as:
 
 Adding doctors
 Adding patients
@@ -105,7 +105,7 @@ Run the application.
 Follow the instructions provided by the console application.
 What I Learned
 
-While developing this project, I practiced:
+## While developing this project, I practiced:
 
 Creating classes and objects
 Creating constructors
