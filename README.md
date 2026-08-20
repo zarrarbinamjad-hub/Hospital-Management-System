@@ -59,16 +59,16 @@ Doctor ID
 Doctor Name
 Specialization
 Experience
-Patient
+## Patient
 
-Represents a patient and stores information such as:
+ Represents a patient and stores information such as:
 
 Patient ID
 Patient Name
 Age
 Bill
 Other patient information used by the application
-Hospital
+## Hospital
 
 ## Manages the doctors and patients and provides methods for operations such as:
 
