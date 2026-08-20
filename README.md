@@ -59,18 +59,18 @@ Doctor ID
 Doctor Name
 Specialization
 Experience
-## Patient
+### Patient
 
- Represents a patient and stores information such as:
+Represents a patient and stores information such as:
 
 Patient ID
 Patient Name
 Age
 Bill
 Other patient information used by the application
-## Hospital
+### Hospital
 
-## Manages the doctors and patients and provides methods for operations such as:
+Manages the doctors and patients and provides methods for operations such as:
 
 Adding doctors
 Adding patients
@@ -88,7 +88,7 @@ Hospital-Management-System
 └── README.md
 Example Operations
 
-The application can perform operations such as:
+## The application can perform operations such as:
 
 Add Doctor
 Add Patient
@@ -121,7 +121,7 @@ Understanding association between classes
 Organizing a small application using OOP principles
 Future Improvements
 
-In the future, I would like to improve this project by:
+## In the future, I would like to improve this project by:
 
 Connecting it to SQL Server
 Replacing arrays with more flexible collections
